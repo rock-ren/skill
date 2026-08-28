@@ -1,6 +1,6 @@
 # 虚拟内存的模拟C++实现
 
-好好久之前写的一个文档了，最初贴在了https://blog.csdn.net/truelie007/article/details/2611624  
+好久之前写的一个文档了，最初贴在了https://blog.csdn.net/truelie007/article/details/2611624  
 又翻出来看了看，里面的代码有点乱，顺手又整理了一下。  
   
 考虑到以前遇到的一个问题，使用std::vector进行数据的存储，如果存储的数据量多大或者是没有足够的内  
